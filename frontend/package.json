@@ -1,0 +1,16 @@
+{
+  "name": "amanq-virtual-desktop",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "shared",
+    "backend/*"
+  ],
+  "scripts": {
+    "dev:controller": "npm --workspace apps/controller run dev",
+    "dev:server": "npm --workspace apps/server-node run dev",
+    "dev:web": "npm --workspace apps/web run dev",
+    "dev:backend:controller": "npm --workspace backend/controller run dev",
+    "dev:backend:node": "npm --workspace backend/nodes run dev"
+  }
+}

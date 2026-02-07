@@ -1,0 +1,66 @@
+{
+  "folders": {
+    "root": {
+      "id": "root",
+      "name": "root",
+      "parentId": null
+    },
+    "bn9Wb6Ew": {
+      "id": "bn9Wb6Ew",
+      "name": "gigi",
+      "parentId": "root"
+    },
+    "cn4GkS8J": {
+      "id": "cn4GkS8J",
+      "name": "fifif",
+      "parentId": "root"
+    }
+  },
+  "files": {
+    "c8ZYk6I_": {
+      "id": "c8ZYk6I_",
+      "name": "g",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "hh",
+      "serverVersion": 2,
+      "updatedAt": "2026-02-07T18:59:21.121Z"
+    },
+    "0iIjBK2Q": {
+      "id": "0iIjBK2Q",
+      "name": "hjh",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "",
+      "serverVersion": 1,
+      "updatedAt": "2026-02-07T19:20:29.870Z"
+    },
+    "TCtIAhC1": {
+      "id": "TCtIAhC1",
+      "name": "gg",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "hi this is blablabla",
+      "serverVersion": 2,
+      "updatedAt": "2026-02-07T19:28:10.066Z"
+    },
+    "fcYSOshE": {
+      "id": "fcYSOshE",
+      "name": "gigi",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "",
+      "serverVersion": 1,
+      "updatedAt": "2026-02-07T22:57:09.497Z"
+    },
+    "ZY2Ez8SP": {
+      "id": "ZY2Ez8SP",
+      "name": "hostt",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "",
+      "serverVersion": 1,
+      "updatedAt": "2026-02-07T22:59:43.697Z"
+    }
+  }
+}
